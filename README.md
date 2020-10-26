@@ -8,15 +8,14 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* [#1](https://github.com/YesPechenko/KeyValidator/issues/1#issue-728775231)
-* [#2](https://github.com/YesPechenko/KeyValidator/issues/2#issue-728775932)
-* [#3](https://github.com/YesPechenko/KeyValidator/issues/3#issue-728776694)
+* [Валидные ключи считает невалидными](https://github.com/YesPechenko/KeyValidator/issues/1#issue-728775231)
+* [Невалидные ключи считает валидными](https://github.com/YesPechenko/KeyValidator/issues/3#issue-728776694)
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
 
-*[Руководство использования KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
+[Руководство использования KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
 
 
 В качестве тестовых данных использовались данные 
